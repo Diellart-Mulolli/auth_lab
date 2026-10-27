@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
